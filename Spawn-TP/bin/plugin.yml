@@ -1,0 +1,7 @@
+main: me.TP
+author: MrKammounYT
+name: SpawnTP
+version: 0.1
+commands:
+  setspawn:
+  spawn:

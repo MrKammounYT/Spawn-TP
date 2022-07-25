@@ -1,0 +1,6 @@
+teleport-delay: 5
+teleport-message: '&eTeleporting to Spawn in &c5 §eSeconds. Dont Move!'
+teleport-cancel-message: '&cTeleportation Has Been canceled cause you moved!'
+teleport-success-message: '&aBack To Spawn'
+teleport-nospawn-message: '&cno spawn is set!'
+teleport-setspawn-message: '&aSpawn Has Been Set!'
